@@ -1,0 +1,6 @@
+#ignore files called
+.classpath
+.project
+#ignore 
+/node_modules
+
